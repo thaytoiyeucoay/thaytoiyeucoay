@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone, i'm Khanh Duy Bui 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/thaytoiyeucoay?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/thaytoiyeucoay?style=social)
@@ -8,16 +8,22 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 
+## 🛠️ Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=python,c++,cs,java,html,css,js,nodejs,vscode,github,mysql,mongodb,tensorflow,pytorch,keras,scikitlearn,pandas,numpy&theme=light&perline=15)
+
+**Languages & Tools:** Python · C++ · C# · Java · HTML · CSS · JavaScript · Node.js · VS Code · GitHub  
+**Databases:** MySQL · MongoDB  
+**ML / DL / DS:** TensorFlow · PyTorch · Keras · scikit-learn · pandas · numpy
+
+
+
 **thaytoiyeucoay/thaytoiyeucoay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Developer & AI Engineer
+- 🌱 I’m currently learning at Hanoi University of Science and Technology (HUST)
+- 📫 How to reach me: duy.bk1608@gmail.com or +84 862 607 525
+
 
