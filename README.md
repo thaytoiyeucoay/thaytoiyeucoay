@@ -1,3 +1,6 @@
+<img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" width="300"/>
+
+
 ## Hi everyone, i'm Khanh Duy Bui 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/thaytoiyeucoay?style=social)
