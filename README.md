@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=python,cs,java,html,css,js,nodejs,vscode,github,mysql,mongodb,tensorflow,pytorch,keras,scikitlearn,pandas,numpy&theme=light&perline=15)
+![Tech Stack](https://skillicons.dev/icons?i=python,cs,java,html,css,js,nodejs,nextjs,vscode,github,mysql,mongodb,tensorflow,pytorch,keras,scikitlearn,pandas,numpy&theme=light&perline=15)
 
 
 
