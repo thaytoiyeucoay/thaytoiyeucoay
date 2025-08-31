@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+![GitHub followers](https://img.shields.io/github/followers/duybui?style=social)
+![GitHub stars](https://img.shields.io/github/stars/duybui?style=social)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=duybui&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duybui&layout=compact&theme=radical)
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+
+
 <!--
 **thaytoiyeucoay/thaytoiyeucoay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
