@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" width="300"/>
+<img src="[https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWs1aXEwZDVndG93bHF2bnM1YmF4ZmFxd3lwenhhdGRpMXBkd2d6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif)" width="800"/>
 
 
 ## Hi everyone, i'm Khanh Duy Bui 👋
