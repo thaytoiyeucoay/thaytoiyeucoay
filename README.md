@@ -10,17 +10,9 @@
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=python,c++,cs,java,html,css,js,nodejs,vscode,github,mysql,mongodb,tensorflow,pytorch,keras,scikitlearn,pandas,numpy&theme=light&perline=15)
-
-**Languages & Tools:** Python · C++ · C# · Java · HTML · CSS · JavaScript · Node.js · VS Code · GitHub  
-**Databases:** MySQL · MongoDB  
-**ML / DL / DS:** TensorFlow · PyTorch · Keras · scikit-learn · pandas · numpy
-
-
+![Tech Stack](https://skillicons.dev/icons?i=python,cs,java,html,css,js,nodejs,vscode,github,mysql,mongodb,tensorflow,pytorch,keras,scikitlearn,pandas,numpy&theme=light&perline=15)
 
 **thaytoiyeucoay/thaytoiyeucoay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Developer & AI Engineer
 - 🌱 I’m currently learning at Hanoi University of Science and Technology (HUST)
